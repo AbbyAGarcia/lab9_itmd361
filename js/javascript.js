@@ -1,4 +1,4 @@
-function innit(){
+function init(){
   
   var ebutton = document.getElementById('entrybutton');
   
